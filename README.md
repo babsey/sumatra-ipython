@@ -25,7 +25,7 @@ Examples
 - run without recordings `%smt_run -m myscript.py default.param`
 - run with recordings `%smt_run -m myscript.py default.param -r`
 - run without recordings but save the data to file `%smt_run -m myscript.py default.param -s`
-- run without recordings, change parameter set and then run with recording
+- run without recordings, change parameter set and then run with recording but use changed parameter set
   1. `%smt_run -m myscript.py default.param`
   2. `parameters.update({'key':value})`
   3. `%smt_run -m myscript.py default.param -r`
