@@ -1,5 +1,11 @@
 # sumatra_ipython
-sumatra magic code for ipython
+Sumatra implementation for IPython magic function. Sumatra works with IPython interactively.
+
+Requirement
+-----------
+or which I have already tested:
+- Sumatra 0.7.0rc
+- IPython 3.0.0
 
 How to install it
 -----------------
