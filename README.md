@@ -19,6 +19,8 @@ How to use it
   - -m select the main_file (neccessary)
   - -r enable sumatra recording
   - -s only save output data to file
+- Important: you have to set the attribute `data` to global
+  - write in the beginning of the script file `global data` 
 
 Examples
 --------
